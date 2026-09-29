@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Java<br>
+Hi, My names Bailey thanks for having a look at my github
 
 
 ## 🌐 Socials:
