@@ -6,6 +6,8 @@
 
 I build software across web, desktop, systems, and machine-learning projects, with a particular interest in intelligent systems and practical developer tools.
 
+Visit my website  [here](https://www.baileyscanlan.com)
+
 [![GitHub followers](https://img.shields.io/github/followers/bailey974?style=for-the-badge&logo=github)](https://github.com/bailey974?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=bailey974&style=for-the-badge)](https://github.com/bailey974)
 
